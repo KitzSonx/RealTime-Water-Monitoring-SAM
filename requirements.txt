@@ -1,0 +1,12 @@
+torch
+torchvision
+opencv-python
+matplotlib
+pillow
+pytz
+numpy
+requests
+google-api-python-client
+google-oauth2-service-account
+
+# SAM จะต้องติดตั้งแยก อยู่ใน README

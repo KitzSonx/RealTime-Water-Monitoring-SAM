@@ -55,8 +55,8 @@
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/KitzSonx/RealTime-Water-Monitoring-SAM.git](https://github.com/KitzSonx/AquaWatch-Real-Time-Water-Monitoring.git)
-    cd AquaWatch-Real-Time-Water-Monitoring
+    git clone [https://github.com/KitzSonx/RealTime-Water-Monitoring-SAM.git](https://github.com/KitzSonx/RealTime-Water-Monitoring-SAM.git)
+    cd RealTime-Water-Monitoring-SAM
     ```
 
 2.  **Install Segment Anything (SAM):**
